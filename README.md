@@ -1,6 +1,6 @@
 # Hi 👋 I'm Sonu
 
-🎓 CSE Graduate  
+🎓 Computer Science Engineering Student  
 💻 Aspiring Data Analyst & Data Engineer  
 📊 Passionate about SQL, Python, Power BI & Real-World Projects  
 🚀 Interested in AI, Data Engineering & Analytics  
